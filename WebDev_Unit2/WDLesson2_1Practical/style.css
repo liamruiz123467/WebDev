@@ -29,18 +29,18 @@ p{
 }
 
 /* Challenge 5: Change the family of font being used for all lists to "Comic Sans MS".  What element creates a list? */
-li{
+ul{
   font-family: "Comic Sans MS";
 }
 
 /* Chalenge 6: Change the background color of the div to blue, color of the text to white and the weight of the font to bold.*/
 div{
   background-color:blue;
+  color: white;
+  font-weight: bold;
 }
 
-li{
-  color: white;
-}
+
 
 
 /* Hint:  You can specify several CSS rules for one element by separating the rules with semi-colons. Look at some examples on w3schools */
