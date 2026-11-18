@@ -3,8 +3,7 @@
 
 .container{
    display:flex;
-   flex: 5;
-   font-family: 'Courier New', Courier, monospace;
+   flex: 1;
 }
 
 #Top{
@@ -23,7 +22,7 @@ nav a{
   flex: 1;
   color: white;
 
-.column{ 
+.column{
   flex: 1;
   flex-direction: column;
 }
