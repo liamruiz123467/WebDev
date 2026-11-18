@@ -1,2 +1,30 @@
 /* Challenge 2: Use w3SchoolsMockUp.png to help you write the necessary CSS rules.
    Hint: Remember all the fundamental CSS rules when working with flexboxes */
+
+.container{
+   display:flex;
+   flex: 5;
+   font-family: 'Courier New', Courier, monospace;
+}
+
+#Top{
+   display:flex;
+   flex: 1;
+   background-color: rgb(22, 155, 22);
+   color: rgb(255, 255, 255);
+   font-size: x-large;
+   
+}
+
+nav a{
+  text-align:center;
+  padding:10px;
+  transition:0.5s;
+  flex: 1;
+  color: white;
+
+.column{
+  display: flex; 
+  flex: 1;
+  flex-direction: column;
+}
