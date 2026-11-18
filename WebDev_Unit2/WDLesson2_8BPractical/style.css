@@ -23,7 +23,8 @@ nav a{
   flex: 1;
   color: white;
 
-.column{ 
+.column{
+  display: flex; 
   flex: 1;
   flex-direction: column;
 }
