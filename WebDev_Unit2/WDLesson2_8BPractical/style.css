@@ -22,7 +22,3 @@ nav a{
   flex: 1;
   color: white;
 
-.column{
-  flex: 1;
-  flex-direction: column;
-}
